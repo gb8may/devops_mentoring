@@ -12,6 +12,5 @@
 
 *Help section:*
 
-*[https://lab.github.com/githubtraining/introduction-to-github](https://lab.github.com/githubtraining/introduction-to-github)*
-*[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)*
-
+[https://lab.github.com/githubtraining/introduction-to-github](https://lab.github.com/githubtraining/introduction-to-github)
+[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)

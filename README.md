@@ -1,6 +1,8 @@
 # DevOps Mentoring Project
 
-## GITHUB
+### Source Code Management (SCM)
+
+#### GITHUB
 
 1. Clone repository
 2. Create branch with your name

@@ -1,9 +1,9 @@
 Not started:
 
 - Djavan
-- Rondismar
 - Jonas
 
 1 - SVN:
 - Caio
 - Wellington
+- Rondismar

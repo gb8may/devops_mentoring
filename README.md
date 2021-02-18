@@ -7,7 +7,7 @@
 1. Clone repository
 2. Create a new branch with your name
 ```
-git branch -b seunome
+# git branch -b seunome
 ```
 3. Create a directory with your name on your branch
 4. Update your branch with changes

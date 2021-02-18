@@ -1,0 +1,41 @@
+
+💻 - Apenas assuntos relacionados a mentoria;
+🔞 - Sem conteúdo Pornô (Exclusão Imediata);
+👥 - Coversas sociais só com foco em TI;
+🗣 - Novato, apresente-se ao Grupo.
+🔎 Objetivo: Compartilhar conhecimento/informações, oportunidades de emprego, cursos, palestras etc. 
+🔥 Evite offtopics. SPAM, Ofensas = BAN. 
+Pergunte a algum admin antes de enviar algum link não relacionado a T.I.
+
+
+
+🧩 Link para criar repositório: https://guides.github.com/activities/hello-world/
+🧩 Link GIT Mentoria: https://github.com/gb8may/devops_mentoring
+🧩 Antes de perguntar algo: https://nandovieira.com.br/como-fazer-perguntas-inteligentes
+🧩 Desistir Jamais: https://youtu.be/fgTw6-PKm4o
+
+
+CERTIFICAÇÕES FREE
+SCRUM - https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified
+SCRUM - https://certiprof.com/
+
+Material de estudo
+** AGILE
+https://academy.estabil.is/courses/exin-agile-scrum-foundation
+
+** DEVOPS
+https://4linux.com.br/cursos/treinamento/devops-essentials/
+https://academy.estabil.is/courses/devops-foundation
+https://academy.estabil.is/courses/exin-devops-professional-online
+
+** AWS
+https://academy.estabil.is/courses/aws-na-pratica
+https://www.aws.training/Details/Curriculum?id=45358
+
+** GITHUB
+
+https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/
+
+** Lógica de programação
+https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS
+

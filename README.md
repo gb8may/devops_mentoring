@@ -36,6 +36,8 @@
 
 *Help section:*
 
+[https://www.eveo.com.br/blog/nginx/](https://www.eveo.com.br/blog/nginx/)
+
 [https://docker-curriculum.com/](https://docker-curriculum.com/)
 
 [https://docs.docker.com/develop/develop-images/dockerfile_best-practices/](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)

@@ -5,9 +5,11 @@
 #### GITHUB
 
 1. Clone repository
+git clone url
+
 2. Create a new branch with your name
 ```
-# git branch -b seunome
+# git checkout -b yourname
 ```
 3. Create a directory with your name on your branch
 4. Update your branch with changes
@@ -20,6 +22,9 @@
 
 
 *Help section:*
+
+**Git and Github - From clone to pull request
+https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
 
 [https://lab.github.com/githubtraining/introduction-to-github](https://lab.github.com/githubtraining/introduction-to-github)
 

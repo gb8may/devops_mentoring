@@ -23,7 +23,7 @@ git clone url
 
 *Help section:*
 
-**Git and Github - From clone to pull request
+**Git and Github - From clone to pull request</br>
 https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
 
 [https://lab.github.com/githubtraining/introduction-to-github](https://lab.github.com/githubtraining/introduction-to-github)

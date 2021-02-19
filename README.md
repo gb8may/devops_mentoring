@@ -24,3 +24,18 @@
 [https://lab.github.com/githubtraining/introduction-to-github](https://lab.github.com/githubtraining/introduction-to-github)
 
 [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+
+
+
+### Conteinerization
+
+#### Docker
+
+1. Create a directory inside your main directory (directory with your name)
+2. Create a Dockerfile to deploy a Nginx server
+
+*Help section:*
+
+[https://docker-curriculum.com/](https://docker-curriculum.com/)
+[https://docs.docker.com/develop/develop-images/dockerfile_best-practices/](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+[https://medium.com/code-to-express/https-medium-com-kumarnitish-hosting-static-site-using-nginx-web-server-in-docker-container-167b31df70bb](https://medium.com/code-to-express/https-medium-com-kumarnitish-hosting-static-site-using-nginx-web-server-in-docker-container-167b31df70bb)

@@ -29,7 +29,7 @@
 
 ### Conteinerization
 
-#### Docker
+#### DOCKER
 
 1. Create a directory inside your main directory (directory with your name)
 2. Create a Dockerfile to deploy a Nginx server

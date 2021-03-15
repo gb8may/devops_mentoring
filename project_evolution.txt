@@ -2,6 +2,7 @@ Not started:
 - Jonas
 
 1 - SVN:
+- Lucas
 - Caio
 - Wellington
 - Rondismar
@@ -10,3 +11,4 @@ Not started:
 2 - Containers:
 - Djavan
 - Lucas
+- Caio

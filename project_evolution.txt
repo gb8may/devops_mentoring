@@ -6,7 +6,7 @@ Not started:
 - Wellington
 - Rondismar
 - Djavan
-- Lucas
 
 2 - Containers:
 - Djavan
+- Lucas

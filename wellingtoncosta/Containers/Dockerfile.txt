@@ -1,6 +1,0 @@
-DO ubuntu
-RUN apt-get update
-RUN apt-get install nginx -y
-COPIAR index.html / var / www / html /
-EXPOR 80
-CMD [ "nginx" , "-g" , "daemon desligado;" ]

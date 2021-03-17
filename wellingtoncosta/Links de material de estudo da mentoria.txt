@@ -39,6 +39,8 @@ https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/
 ** Lógica de programação
 https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS
 
+Correção
+
 
 Criara uma BRANCH
 

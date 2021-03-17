@@ -5,7 +5,10 @@
 #### GITHUB
 
 1. Clone repository
-2. Create a new branch with your name
+```
+# git clone https://github.com/gb8may/devops_mentoring.git
+```
+3. Create a new branch with your name
 ```
 # git checkout -b seunome
 ```

@@ -42,6 +42,6 @@ https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASIC
 Correção
 
 
-Criara uma BRANCH
+Criara uma BRANCH para versionamento de código
 
 https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/

@@ -1,4 +1,4 @@
-/bash
+#!/bin/bash
 
 #comandos para atualização do sistemas
 
